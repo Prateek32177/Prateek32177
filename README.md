@@ -13,7 +13,7 @@
 
 - 🤝 TextlyAI is New Addition to my Products List Which I Developed recently [TextlyAI](https://flowaii.web.app/)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-7be92.web.app/](https://prateekjain.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://prateekjain.vercel.app/)
 
 - 💬 Ask me about **React.js, SaaS Startups's**
 
