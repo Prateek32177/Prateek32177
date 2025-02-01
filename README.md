@@ -5,7 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek32177&label=Profile%20views&color=0e75b6&style=flat" alt="prateek32177" /> </p>
 <img src="https://github.com/user-attachments/assets/8fab2e3b-5d9a-4ab3-993f-2c297f0cf40b"/>
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateek32177" alt="prateek32177" /></a> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateek32177" alt="prateek32177" /></a> </p>
 
 - 🔭 I’m currently working on [Brokersify](https://brokersify.in/) and few other productivity apps.
 
