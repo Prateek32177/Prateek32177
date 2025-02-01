@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prateek jain</h1>
 <h3 align="center">A Serial SaaS Builder from India</h3>
 <h3 align="center">A Smooth Operator, TurboCharging Websites for Optimal Performance!</h3>
-![WhatsApp Image 2025-02-01 at 11 33 01](https://github.com/user-attachments/assets/8fab2e3b-5d9a-4ab3-993f-2c297f0cf40b)
-
+<br/>
+<img src="https://github.com/user-attachments/assets/8fab2e3b-5d9a-4ab3-993f-2c297f0cf40b" width="128"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek32177&label=Profile%20views&color=0e75b6&style=flat" alt="prateek32177" /> </p>
